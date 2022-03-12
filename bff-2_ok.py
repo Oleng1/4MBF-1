@@ -1,3 +1,6 @@
+#!/usr/bin/python2
+# -*- coding: utf-8 -*-
+
 import requests, bs4, sys, os, subprocess, requests, sys, random, json, time, re
 reload(sys)
 sys.setdefaultencoding('utf-8')
